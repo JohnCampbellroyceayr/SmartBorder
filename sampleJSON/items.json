@@ -1,0 +1,484 @@
+{
+  "CMS_ServiceResponse_InquireSalesOrderItem": {
+    "DataRequestID": "OrderSummary",
+    "RequestStatus": "OK",
+    "CMSDataBase": "ROYCEAYR",
+    "ServLang": "ENU",
+    "ServPlntCod": "DFT",
+    "OrderNumber": "1101910",
+    "Items": {
+      "Item": [
+        {
+          "ItemNumber": "1",
+          "AllowLateShipment": "5",
+          "DirectBuy": "3",
+          "DirectBuyAction": "1",
+          "SCDPart": "2",
+          "PartNumber": "009A-9514.L",
+          "QuantityOrdered": "1.00",
+          "OrderUnit": "EA",
+          "ProjectNumber": "",
+          "CustomerRANNumber": "",
+          "UnitPrice": "1198.00000",
+          "PricingUnit": "EA",
+          "SalesAgent": "00009",
+          "CustomerPOItemNbr": "",
+          "CommissionPercentage": ".00",
+          "CommissionRate": ".00",
+          "GLDistributionCode": "CC",
+          "TaxGroupCode": "REC",
+          "TaxRateCode": "0",
+          "MajorSalesCode": "CC",
+          "MinorSalesCode": "25",
+          "PromiseDate": "2023-06-30",
+          "PromiseTime": "0",
+          "StockLocation": "DFTCAM",
+          "CancelDate": "0001-01-01",
+          "RequestDate": "2023-06-30",
+          "RequestTime": "0",
+          "LoadSequenceNumber": "0",
+          "DoNotShipBeforeDate": "0001-01-01",
+          "FreightAmount": ".00",
+          "PickType": "",
+          "PriceLock": "2",
+          "CustomerRevisionNumber": "",
+          "CustomerAliasPartNumber": "",
+          "PerUnitFreightInOrderUnit": ".00000",
+          "HandlingFeePercentage": ".00000",
+          "ConsignmentPart": "",
+          "ServiceAgreementNumber": "",
+          "EnhancedWarrantyCode": "",
+          "RegisteredProductNbr": "0",
+          "ShipDate": "2023-06-29",
+          "ShipTime": "0",
+          "ShipDateTimeZone": "*S",
+          "ServiceContractSalesOrderNbr": "0",
+          "ServiceContractSalesOrderItem": "0",
+          "ItemStatus": "O",
+          "QuantityShipped": ".00000",
+          "ItemDescriptions": {
+            "ItemDescription": [
+              {
+                "LineNumber": 1,
+                "Description": "5\"D X .5\"B X 24+18T"
+              },
+              {
+                "LineNumber": 2,
+                "Description": "3PC ASSEMBLY"
+              },
+              {
+                "LineNumber": 3,
+                "Description": "DIAMOND SAW ASSY    DW#D9514.L"
+              },
+              {
+                "LineNumber": 4,
+                "Description": "***************************"
+              },
+              {
+                "LineNumber": 5,
+                "Description": "DB INT SAW (WING)"
+              },
+              {
+                "LineNumber": 6,
+                "Description": "ASSET C0007291"
+              },
+              {
+                "LineNumber": 7,
+                "Description": "CS949"
+              }
+            ]
+          },
+          "UserDefinedFields": null,
+          "NotepadTexts": null
+        },
+        {
+          "ItemNumber": "2",
+          "AllowLateShipment": "5",
+          "DirectBuy": "3",
+          "DirectBuyAction": "1",
+          "SCDPart": "2",
+          "PartNumber": "009A-9514.R",
+          "QuantityOrdered": "1.00",
+          "OrderUnit": "EA",
+          "ProjectNumber": "",
+          "CustomerRANNumber": "",
+          "UnitPrice": "1198.00000",
+          "PricingUnit": "EA",
+          "SalesAgent": "00009",
+          "CustomerPOItemNbr": "",
+          "CommissionPercentage": ".00",
+          "CommissionRate": ".00",
+          "GLDistributionCode": "CC",
+          "TaxGroupCode": "REC",
+          "TaxRateCode": "0",
+          "MajorSalesCode": "CC",
+          "MinorSalesCode": "25",
+          "PromiseDate": "2023-06-30",
+          "PromiseTime": "0",
+          "StockLocation": "DFTCAM",
+          "CancelDate": "0001-01-01",
+          "RequestDate": "2023-06-30",
+          "RequestTime": "0",
+          "LoadSequenceNumber": "0",
+          "DoNotShipBeforeDate": "0001-01-01",
+          "FreightAmount": ".00",
+          "PickType": "",
+          "PriceLock": "2",
+          "CustomerRevisionNumber": "",
+          "CustomerAliasPartNumber": "",
+          "PerUnitFreightInOrderUnit": ".00000",
+          "HandlingFeePercentage": ".00000",
+          "ConsignmentPart": "",
+          "ServiceAgreementNumber": "",
+          "EnhancedWarrantyCode": "",
+          "RegisteredProductNbr": "0",
+          "ShipDate": "2023-06-29",
+          "ShipTime": "0",
+          "ShipDateTimeZone": "*S",
+          "ServiceContractSalesOrderNbr": "0",
+          "ServiceContractSalesOrderItem": "0",
+          "ItemStatus": "O",
+          "QuantityShipped": ".00000",
+          "ItemDescriptions": {
+            "ItemDescription": [
+              {
+                "LineNumber": 1,
+                "Description": "5\"D X .5\"B X 24+18T"
+              },
+              {
+                "LineNumber": 2,
+                "Description": "3PC ASSEMBLY"
+              },
+              {
+                "LineNumber": 3,
+                "Description": "DIAMOND SAW ASSY    DW#D9514.R"
+              },
+              {
+                "LineNumber": 4,
+                "Description": "***************************"
+              },
+              {
+                "LineNumber": 5,
+                "Description": "DB INT SAW (WING)"
+              },
+              {
+                "LineNumber": 6,
+                "Description": "ASSET C0007291"
+              },
+              {
+                "LineNumber": 7,
+                "Description": "CS950"
+              }
+            ]
+          },
+          "UserDefinedFields": null,
+          "NotepadTexts": null
+        },
+        {
+          "ItemNumber": "3",
+          "AllowLateShipment": "5",
+          "DirectBuy": "3",
+          "DirectBuyAction": "1",
+          "SCDPart": "2",
+          "PartNumber": "009A-9514.L",
+          "QuantityOrdered": "1.00",
+          "OrderUnit": "EA",
+          "ProjectNumber": "",
+          "CustomerRANNumber": "",
+          "UnitPrice": "1198.00000",
+          "PricingUnit": "EA",
+          "SalesAgent": "00009",
+          "CustomerPOItemNbr": "",
+          "CommissionPercentage": ".00",
+          "CommissionRate": ".00",
+          "GLDistributionCode": "CC",
+          "TaxGroupCode": "REC",
+          "TaxRateCode": "0",
+          "MajorSalesCode": "CC",
+          "MinorSalesCode": "25",
+          "PromiseDate": "2023-06-30",
+          "PromiseTime": "0",
+          "StockLocation": "DFTCAM",
+          "CancelDate": "0001-01-01",
+          "RequestDate": "2023-06-30",
+          "RequestTime": "0",
+          "LoadSequenceNumber": "0",
+          "DoNotShipBeforeDate": "0001-01-01",
+          "FreightAmount": ".00",
+          "PickType": "",
+          "PriceLock": "2",
+          "CustomerRevisionNumber": "",
+          "CustomerAliasPartNumber": "",
+          "PerUnitFreightInOrderUnit": ".00000",
+          "HandlingFeePercentage": ".00000",
+          "ConsignmentPart": "",
+          "ServiceAgreementNumber": "",
+          "EnhancedWarrantyCode": "",
+          "RegisteredProductNbr": "0",
+          "ShipDate": "2023-06-29",
+          "ShipTime": "0",
+          "ShipDateTimeZone": "*S",
+          "ServiceContractSalesOrderNbr": "0",
+          "ServiceContractSalesOrderItem": "0",
+          "ItemStatus": "O",
+          "QuantityShipped": ".00000",
+          "ItemDescriptions": {
+            "ItemDescription": [
+              {
+                "LineNumber": 1,
+                "Description": "5\"D X .5\"B X 24+18T"
+              },
+              {
+                "LineNumber": 2,
+                "Description": "3PC ASSEMBLY"
+              },
+              {
+                "LineNumber": 3,
+                "Description": "DIAMOND SAW ASSY    DW#D9514.L"
+              },
+              {
+                "LineNumber": 4,
+                "Description": "***************************"
+              },
+              {
+                "LineNumber": 5,
+                "Description": "DB INT SAW (WING)"
+              },
+              {
+                "LineNumber": 6,
+                "Description": "ASSET C0007291"
+              },
+              {
+                "LineNumber": 7,
+                "Description": "CS951"
+              }
+            ]
+          },
+          "UserDefinedFields": null,
+          "NotepadTexts": null
+        },
+        {
+          "ItemNumber": "4",
+          "AllowLateShipment": "5",
+          "DirectBuy": "3",
+          "DirectBuyAction": "1",
+          "SCDPart": "2",
+          "PartNumber": "009A-9514.R",
+          "QuantityOrdered": "1.00",
+          "OrderUnit": "EA",
+          "ProjectNumber": "",
+          "CustomerRANNumber": "",
+          "UnitPrice": "1198.00000",
+          "PricingUnit": "EA",
+          "SalesAgent": "00009",
+          "CustomerPOItemNbr": "",
+          "CommissionPercentage": ".00",
+          "CommissionRate": ".00",
+          "GLDistributionCode": "CC",
+          "TaxGroupCode": "REC",
+          "TaxRateCode": "0",
+          "MajorSalesCode": "CC",
+          "MinorSalesCode": "25",
+          "PromiseDate": "2023-06-30",
+          "PromiseTime": "0",
+          "StockLocation": "DFTCAM",
+          "CancelDate": "0001-01-01",
+          "RequestDate": "2023-06-30",
+          "RequestTime": "0",
+          "LoadSequenceNumber": "0",
+          "DoNotShipBeforeDate": "0001-01-01",
+          "FreightAmount": ".00",
+          "PickType": "",
+          "PriceLock": "2",
+          "CustomerRevisionNumber": "",
+          "CustomerAliasPartNumber": "",
+          "PerUnitFreightInOrderUnit": ".00000",
+          "HandlingFeePercentage": ".00000",
+          "ConsignmentPart": "",
+          "ServiceAgreementNumber": "",
+          "EnhancedWarrantyCode": "",
+          "RegisteredProductNbr": "0",
+          "ShipDate": "2023-06-29",
+          "ShipTime": "0",
+          "ShipDateTimeZone": "*S",
+          "ServiceContractSalesOrderNbr": "0",
+          "ServiceContractSalesOrderItem": "0",
+          "ItemStatus": "O",
+          "QuantityShipped": ".00000",
+          "ItemDescriptions": {
+            "ItemDescription": [
+              {
+                "LineNumber": 1,
+                "Description": "5\"D X .5\"B X 24+18T"
+              },
+              {
+                "LineNumber": 2,
+                "Description": "3PC ASSEMBLY"
+              },
+              {
+                "LineNumber": 3,
+                "Description": "DIAMOND SAW ASSY    DW#D9514.R"
+              },
+              {
+                "LineNumber": 4,
+                "Description": "***************************"
+              },
+              {
+                "LineNumber": 5,
+                "Description": "DB INT SAW (WING)"
+              },
+              {
+                "LineNumber": 6,
+                "Description": "ASSET C0007291"
+              },
+              {
+                "LineNumber": 7,
+                "Description": "CS952"
+              }
+            ]
+          },
+          "UserDefinedFields": null,
+          "NotepadTexts": null
+        },
+        {
+          "ItemNumber": "5",
+          "AllowLateShipment": "5",
+          "DirectBuy": "3",
+          "DirectBuyAction": "1",
+          "SCDPart": "2",
+          "PartNumber": "ETCH-CENTRIC",
+          "QuantityOrdered": ".00",
+          "OrderUnit": "EA",
+          "ProjectNumber": "",
+          "CustomerRANNumber": "",
+          "UnitPrice": ".00000",
+          "PricingUnit": "EA",
+          "SalesAgent": "00009",
+          "CustomerPOItemNbr": "",
+          "CommissionPercentage": ".00",
+          "CommissionRate": ".00",
+          "GLDistributionCode": "AA",
+          "TaxGroupCode": "REC",
+          "TaxRateCode": "0",
+          "MajorSalesCode": "AA",
+          "MinorSalesCode": "150",
+          "PromiseDate": "2023-06-30",
+          "PromiseTime": "0",
+          "StockLocation": "DFTCAM",
+          "CancelDate": "0001-01-01",
+          "RequestDate": "2023-06-30",
+          "RequestTime": "0",
+          "LoadSequenceNumber": "0",
+          "DoNotShipBeforeDate": "0001-01-01",
+          "FreightAmount": ".00",
+          "PickType": "",
+          "PriceLock": "2",
+          "CustomerRevisionNumber": "",
+          "CustomerAliasPartNumber": "",
+          "PerUnitFreightInOrderUnit": ".00000",
+          "HandlingFeePercentage": ".00000",
+          "ConsignmentPart": "",
+          "ServiceAgreementNumber": "",
+          "EnhancedWarrantyCode": "",
+          "RegisteredProductNbr": "0",
+          "ShipDate": "2023-06-29",
+          "ShipTime": "0",
+          "ShipDateTimeZone": "*S",
+          "ServiceContractSalesOrderNbr": "0",
+          "ServiceContractSalesOrderItem": "0",
+          "ItemStatus": "O",
+          "QuantityShipped": ".00000",
+          "ItemDescriptions": {
+            "ItemDescription": [
+              {
+                "LineNumber": 1,
+                "Description": "CENTRIC W/W ETCH ONLY"
+              },
+              {
+                "LineNumber": 2,
+                "Description": "PART NUMBER & DESCRIPTION"
+              },
+              {
+                "LineNumber": 3,
+                "Description": "******************************"
+              },
+              {
+                "LineNumber": 4,
+                "Description": "SPECIAL INSTRUCTIONS IN"
+              },
+              {
+                "LineNumber": 5,
+                "Description": "DESCRIPTIONS"
+              }
+            ]
+          },
+          "UserDefinedFields": null,
+          "NotepadTexts": null
+        },
+        {
+          "ItemNumber": "6",
+          "AllowLateShipment": "5",
+          "DirectBuy": "3",
+          "DirectBuyAction": "1",
+          "SCDPart": "2",
+          "PartNumber": "PACKING SLIP",
+          "QuantityOrdered": ".00",
+          "OrderUnit": "EA",
+          "ProjectNumber": "",
+          "CustomerRANNumber": "",
+          "UnitPrice": ".00000",
+          "PricingUnit": "EA",
+          "SalesAgent": "00009",
+          "CustomerPOItemNbr": "",
+          "CommissionPercentage": ".00",
+          "CommissionRate": ".00",
+          "GLDistributionCode": "AA",
+          "TaxGroupCode": "REC",
+          "TaxRateCode": "0",
+          "MajorSalesCode": "AA",
+          "MinorSalesCode": "150",
+          "PromiseDate": "2023-06-30",
+          "PromiseTime": "0",
+          "StockLocation": "DFTCAM",
+          "CancelDate": "0001-01-01",
+          "RequestDate": "2023-06-30",
+          "RequestTime": "0",
+          "LoadSequenceNumber": "0",
+          "DoNotShipBeforeDate": "0001-01-01",
+          "FreightAmount": ".00",
+          "PickType": "",
+          "PriceLock": "2",
+          "CustomerRevisionNumber": "",
+          "CustomerAliasPartNumber": "",
+          "PerUnitFreightInOrderUnit": ".00000",
+          "HandlingFeePercentage": ".00000",
+          "ConsignmentPart": "",
+          "ServiceAgreementNumber": "",
+          "EnhancedWarrantyCode": "",
+          "RegisteredProductNbr": "0",
+          "ShipDate": "2023-06-29",
+          "ShipTime": "0",
+          "ShipDateTimeZone": "*S",
+          "ServiceContractSalesOrderNbr": "0",
+          "ServiceContractSalesOrderItem": "0",
+          "ItemStatus": "O",
+          "QuantityShipped": ".00000",
+          "ItemDescriptions": {
+            "ItemDescription": [
+              {
+                "LineNumber": 1,
+                "Description": "USE PACKING SLIP PROVIDED BY"
+              },
+              {
+                "LineNumber": 2,
+                "Description": "CUSTOMER"
+              }
+            ]
+          },
+          "UserDefinedFields": null,
+          "NotepadTexts": null
+        }
+      ]
+    }
+  }
+}
