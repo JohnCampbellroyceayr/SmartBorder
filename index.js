@@ -1,46 +1,77 @@
-import orderSummary from "./src/getOrderSummary.js";
+import orderSummary from "./src/odbc/orderSummary.js";
+import updateCustomerFedId from "./src/webservices/updateCustomerFedId.js";
+import updateGlobalPartTariff from "./src/webservices/updateTariffCode.js";
 
 import express from "express";
 
 const app = express();
+app.use(express.json());
 
-function objectIntoExcelHeader(obj) {
-    let str = obj.header.ShipToName;
-    str += "|" + obj.header.ShipToAddress2;
-    str += "|" + obj.header.ShipToAddress1;
-    str += "|" + obj.header.ShipToCity;
-    str += "|" + obj.header.ShipToProvinceCode;
-    str += "|" + obj.header.ShipToCountryCode;
-    str += "|" + obj.header.ShipToPostalCode;
-    return str;
-}
-
-function objectIntoExcelItems(obj) {
-    let str = '';
-    for (let i = 0; i < obj.items.length; i++) {
-        const item = obj.items[i];
-        str += item.PartNumber;
-        str += "|" + item.QuantityOrdered;
-        str += "|" + item.OrderUnit;
-        str += "|" + item.UnitPrice;
-        str += '\n';
-    }
-    return str;
-}
-
-// const order = await orderSummary("1120161");
-// console.log(order);
-// console.log(objectIntoExcelHeader(order));
-// console.log(objectIntoExcelItems(order));
-
-app.get('/api/:id', async (req, res) => {
+app.get('/api/order/:id', async (req, res) => {
     
     const orderNumber = req.params.id;
-    const order = await orderSummary(orderNumber);
-    console.log(order);
+    const order = await orderSummary([orderNumber]);
     res.json(order);
+
+});
+
+app.post('/api/getOrderArr', async (req, res) => {
+    console.log(req.body);
+    const orderArr = req.body.orderArr;
+    console.log(orderArr);
+    const orders = await orderSummary(orderArr);
+    console.log(orders);
+    res.json(orders);
+
+});
+
+
+app.post('/api/updateCustomerFedId', async (req, res) => {
+    
+    try {
+        const customerNumber = req.body.customer;
+        const newTaxId = req.body.taxId;
+        console.log(customerNumber);
+        console.log(newTaxId);
+        const result = await updateCustomerFedId(customerNumber, newTaxId);
+        console.log(result);
+        res.json(result);
+    }
+    catch(error) {
+
+        console.log(error);
+        res.json({
+            error: true
+        });
+    }
+
+});
+
+app.post('/api/updatePartTariffCode', async (req, res) => {
+    
+    try {
+        const partNumber = req.body.part;
+        const tariffCode = req.body.tariff;
+        const result2 = await updateGlobalPartTariff(partNumber, tariffCode);
+        console.log(result2);
+        res.json(result2);
+    }
+    catch(error) {
+
+        console.log(error);
+        res.json({
+            error: true
+        });
+    }
+
 });
 
 app.listen(2004, () => {
     console.log('Server is running on port 2004');
 });
+
+// const result = await updateCustomerFedId("AA0001", "41-2069146");
+// console.log(result);
+
+// const result2 = await updateGlobalPartTariff("510-74356.L", "8207.90.30.80");
+// console.log(result2);
