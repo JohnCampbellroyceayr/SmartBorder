@@ -1,0 +1,3036 @@
+[
+  {
+    "header": {
+      "ORDERNUMBER": "1105040",
+      "LINECONSIGNEENAME": "UPSTATE DOOR INC",
+      "CUSTOMERCODE": "UP0022",
+      "LINECONSIGNEEUSTAXID": "16-1480997",
+      "LINECONSIGNEEADDRESS1": "26 INDUSTRIAL STREET",
+      "LINECONSIGNEECITY": "WARSAW",
+      "LINECONSIGNEESTATE": "NY",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "14569"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1105040",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "548-72211.A",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "4\"D X 30MMCE X 2EFF W",
+        "DESCRIPTION2": "30MMB",
+        "DESCRIPTION3": "MULTI PROFILE CTTR DW#72211.A"
+      },
+      {
+        "ORDERNUMBER": "1105040",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "548-72211.B",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "4\"D X 30MMCE X 2EFF W",
+        "DESCRIPTION2": "30MMB",
+        "DESCRIPTION3": "MULTI PROFILE CTTR DW#72211.B"
+      },
+      {
+        "ORDERNUMBER": "1105040",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "548-72212.A",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "99.2MMD X 30MMCE X 2EFF W",
+        "DESCRIPTION2": "30MMB",
+        "DESCRIPTION3": "MULTI PROFILE CTTR DW#72212.A"
+      },
+      {
+        "ORDERNUMBER": "1105040",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "548-72212.B",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "99.2MMD X 30MMCE X 2EFF W",
+        "DESCRIPTION2": "30MMB",
+        "DESCRIPTION3": "MULTI PROFILE CTTR DW#72212.B"
+      },
+      {
+        "ORDERNUMBER": "1105040",
+        "ITEMNUMBER": "5",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SAMPLE",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "RETURNING CUSTOMER'S SAMPLE",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1113883",
+      "LINECONSIGNEENAME": "ACME TOOLS FARGO",
+      "CUSTOMERCODE": "AC0028",
+      "LINECONSIGNEEUSTAXID": "45-0283814",
+      "LINECONSIGNEEADDRESS1": "3401 WESTRAC DR S",
+      "LINECONSIGNEECITY": "FARGO",
+      "LINECONSIGNEESTATE": "ND",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "58103"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1113883",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8202.39.00.70",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "ON",
+        "PARTNUMBER": "03121001MU",
+        "QUANTITY": "5.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "125.88000",
+        "DESCRIPTION1": "12\" X 100T X 3.5K X 1\"B (TCG)",
+        "DESCRIPTION2": "-5 DEG HOOK",
+        "DESCRIPTION3": "CARBIDE TIP ULTIMA SAW BLADE"
+      },
+      {
+        "ORDERNUMBER": "1113883",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-ACME TOOL",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "PRECISION EDGE ETCH ONLY",
+        "DESCRIPTION2": "PART NUMBER & DESCRIPTION",
+        "DESCRIPTION3": "PLAIN BOX"
+      },
+      {
+        "ORDERNUMBER": "1113883",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SHIP-ACME TOOLS",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "*** SHIP VIA UPS GRND COLLECT",
+        "DESCRIPTION2": "ON ACCOUNT # 005R24 ***",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1114975",
+      "LINECONSIGNEENAME": "DJS INDUSTRIAL SUPPLY CO.,",
+      "CUSTOMERCODE": "DJ0014",
+      "LINECONSIGNEEUSTAXID": "",
+      "LINECONSIGNEEADDRESS1": "14133 FUTURA CT.",
+      "LINECONSIGNEECITY": "FORT WAYNE",
+      "LINECONSIGNEESTATE": "IN",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "46845"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1114975",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8207.70.30",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "R99-74167",
+        "QUANTITY": "5.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "51.96000",
+        "DESCRIPTION1": "1/2\"D X 1-5/8\"CE X 1/2\"S X 2F",
+        "DESCRIPTION2": "SOLID CARBIDE ROUTER",
+        "DESCRIPTION3": "DW#74167"
+      },
+      {
+        "ORDERNUMBER": "1114975",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "8207.70.30",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "R99-74168",
+        "QUANTITY": "5.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "86.68000",
+        "DESCRIPTION1": "1/2\"D X 1-5/8\"CE X 1/2\"S X 3F",
+        "DESCRIPTION2": "SOLID CARBIDE ROUTER",
+        "DESCRIPTION3": "DW#74168"
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1115902",
+      "LINECONSIGNEENAME": "CAL DOOR & DRAWER INC.",
+      "CUSTOMERCODE": "CA0027",
+      "LINECONSIGNEEUSTAXID": "82-3540288",
+      "LINECONSIGNEEADDRESS1": "1800 ABBOTT STREET",
+      "LINECONSIGNEECITY": "SALINAS",
+      "LINECONSIGNEESTATE": "CA",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "93901"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1115902",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "001-10734",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "340.00000",
+        "DESCRIPTION1": "161.9MMD X 32CE X 3W",
+        "DESCRIPTION2": "SERVICE PCD CUTTER DW#D10734",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1115902",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "005",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "120.00000",
+        "DESCRIPTION1": "REPLACE PCD TIP",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1116283",
+      "LINECONSIGNEENAME": "CHEP",
+      "CUSTOMERCODE": "IN0021",
+      "LINECONSIGNEEUSTAXID": "39-1694421",
+      "LINECONSIGNEEADDRESS1": "31748 ENTERPRISE DR",
+      "LINECONSIGNEECITY": "LIVONIA",
+      "LINECONSIGNEESTATE": "MI",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "PO#8000605472"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1116283",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8202.39.00.70",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "ON",
+        "PARTNUMBER": "120-ROY-18-S6868",
+        "QUANTITY": "38.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "147.00000",
+        "DESCRIPTION1": "450MMD X CUSTOM BORE X 70T",
+        "DESCRIPTION2": "CARBIDE TIP SAW  DW#S6868",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1116283",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "COMMENTS",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "PLEASE SEE FOLLOWING COMMENTS:",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1116548",
+      "LINECONSIGNEENAME": "DIGITAL WOOD CARVER INC",
+      "CUSTOMERCODE": "DI0023",
+      "LINECONSIGNEEUSTAXID": "27-3678231",
+      "LINECONSIGNEEADDRESS1": "189 W WALNUT ST",
+      "LINECONSIGNEECITY": "MARTINSVILLE",
+      "LINECONSIGNEESTATE": "IN",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "46151"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1116548",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "510-73540",
+        "QUANTITY": "20.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "229.70000",
+        "DESCRIPTION1": "5\"D X 15CE X 5W",
+        "DESCRIPTION2": "1 1/8\"B W/KEYWAY",
+        "DESCRIPTION3": "TOK CUTTERHEAD     DW#73540"
+      },
+      {
+        "ORDERNUMBER": "1116548",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "DEPOSIT REQUIRED",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "*** MUST OBTAIN APPROVAL WITH",
+        "DESCRIPTION2": "ACTS REC BEFORE SHIPPING ***",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1116876",
+      "LINECONSIGNEENAME": "TURMAN SAWMILL INC",
+      "CUSTOMERCODE": "TU0028",
+      "LINECONSIGNEEUSTAXID": "54-1351274",
+      "LINECONSIGNEEADDRESS1": "555 EXPANSION DRIVE",
+      "LINECONSIGNEECITY": "HILLSVILLE",
+      "LINECONSIGNEESTATE": "VA",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "24343"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1116876",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "533-74478",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "2444.90000",
+        "DESCRIPTION1": "180MMD X 300MMCE X 6EFF W",
+        "DESCRIPTION2": "2 1/8\"B",
+        "DESCRIPTION3": "SPIRALEX CUTTER    DW#74478"
+      },
+      {
+        "ORDERNUMBER": "1116876",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "170-74479",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "2733.88000",
+        "DESCRIPTION1": "200MMD X 300MMCE X 12W",
+        "DESCRIPTION2": "2 1/8\" HYDRO BORE",
+        "DESCRIPTION3": "CORRUGATED HEAD    DW#74479"
+      },
+      {
+        "ORDERNUMBER": "1116876",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "170-74480",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "762.50000",
+        "DESCRIPTION1": "200MMD X 50MMCE X 12W",
+        "DESCRIPTION2": "2 1/8\" HYDRO BORE",
+        "DESCRIPTION3": "CORRUGATED HEAD    DW#74480"
+      },
+      {
+        "ORDERNUMBER": "1116876",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "8208.20.00.90",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "579-PR-18-6X32",
+        "QUANTITY": "8.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "82.78000",
+        "DESCRIPTION1": "1-1/4\" X 1/4\" X 25\"",
+        "DESCRIPTION2": "18% HSS CORRUGATED STEEL",
+        "DESCRIPTION3": "SQUARE BACK"
+      },
+      {
+        "ORDERNUMBER": "1116876",
+        "ITEMNUMBER": "5",
+        "TARIFF1NUMBER": "8208.20.00.90",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "579-PR-18-6X50",
+        "QUANTITY": "8.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "103.40000",
+        "DESCRIPTION1": "2\" X 1/4\" X 25\"",
+        "DESCRIPTION2": "18% HSS CORRUGATED STEEL",
+        "DESCRIPTION3": "SQUARE BACK"
+      },
+      {
+        "ORDERNUMBER": "1116876",
+        "ITEMNUMBER": "6",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "TEMPLATE",
+        "QUANTITY": "8.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "25.00000",
+        "DESCRIPTION1": "SUPPLY TEMPLATE",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1116876",
+        "ITEMNUMBER": "7",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "TBO-M08",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "747.27000",
+        "DESCRIPTION1": "HYDRO-GRIP GREASE PUMP",
+        "DESCRIPTION2": "M08 - NEW VERSION",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1116876",
+        "ITEMNUMBER": "8",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "TBO-F01",
+        "QUANTITY": "3.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "19.50000",
+        "DESCRIPTION1": "GREASE CARTRIDGE FOR M08 GUN",
+        "DESCRIPTION2": "\"BLASOLUBE\"",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1116876",
+        "ITEMNUMBER": "9",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "582-20-200",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "117.02000",
+        "DESCRIPTION1": "1/4\" DRIVE CLICK TORQUE WRENCH",
+        "DESCRIPTION2": "20-200 INCH/LBS",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1116876",
+        "ITEMNUMBER": "10",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "583LR-I212.065",
+        "QUANTITY": "7.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "67.40000",
+        "DESCRIPTION1": "2.125\"ID X 20MM THK X 98MM OD",
+        "DESCRIPTION2": "LOCK SAFETY COLLAR",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1117327",
+      "LINECONSIGNEENAME": "NEW ENERGY WORKS OF OREGON",
+      "CUSTOMERCODE": "NE0040",
+      "LINECONSIGNEEUSTAXID": "26-2225888",
+      "LINECONSIGNEEADDRESS1": "2675 NE ORCHARD AVE",
+      "LINECONSIGNEECITY": "MCMINNVILLE",
+      "LINECONSIGNEESTATE": "OR",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "97128"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1117327",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "MISC-TOOLHOLDER",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "1299.69000",
+        "DESCRIPTION1": "SUPPLY TOOLHOLDER/CHUCK",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1117666",
+      "LINECONSIGNEENAME": "PROFESSIONAL PLASTICS WA",
+      "CUSTOMERCODE": "DY0022",
+      "LINECONSIGNEEUSTAXID": "20-4637039",
+      "LINECONSIGNEEADDRESS1": "8633 ELM FAIR BLVD",
+      "LINECONSIGNEECITY": "33610",
+      "LINECONSIGNEESTATE": "FL",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": ""
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1117666",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "009-8969",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "1586.00000",
+        "DESCRIPTION1": "400MMD X 30MMB X 60T X 4.4MMK",
+        "DESCRIPTION2": "PCD SAW         DW#D8969",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1118120",
+      "LINECONSIGNEENAME": "NEW ENERGY WORKS OF OREGON",
+      "CUSTOMERCODE": "NE0040",
+      "LINECONSIGNEEUSTAXID": "26-2225888",
+      "LINECONSIGNEEADDRESS1": "2675 NE ORCHARD AVE",
+      "LINECONSIGNEECITY": "MCMINNVILLE",
+      "LINECONSIGNEESTATE": "OR",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "97128"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1118120",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "564-74434",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "793.94000",
+        "DESCRIPTION1": "60MMD X 2\"CE X 3EFF W",
+        "DESCRIPTION2": "HSK63E ETP HOLDER",
+        "DESCRIPTION3": "PROFILE CUTTERHEAD DW#74434"
+      },
+      {
+        "ORDERNUMBER": "1118120",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "158-SC-74434.A",
+        "QUANTITY": "6.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "38.38000",
+        "DESCRIPTION1": "SC INSERT KNIVES   DW#74434.A",
+        "DESCRIPTION2": "632SF-6020-26",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118120",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "158-SC-74434.B",
+        "QUANTITY": "6.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "38.38000",
+        "DESCRIPTION1": "SC INSERT KNIVES   DW#74434.B",
+        "DESCRIPTION2": "632SF-6020-26",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118120",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "158-SC-74434.C",
+        "QUANTITY": "6.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "38.38000",
+        "DESCRIPTION1": "SC INSERT KNIVES   DW#74434.C",
+        "DESCRIPTION2": "632SF-6020-26",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118120",
+        "ITEMNUMBER": "5",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "561-73382",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "738.82000",
+        "DESCRIPTION1": "42MMD X 40MMCE X 2W",
+        "DESCRIPTION2": "HSK63E",
+        "DESCRIPTION3": "TOK CUTTERHEAD     DW#73382"
+      },
+      {
+        "ORDERNUMBER": "1118120",
+        "ITEMNUMBER": "6",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "165-73382",
+        "QUANTITY": "6.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "20.39000",
+        "DESCRIPTION1": "TOK INSERT KNIVES  DW#73382",
+        "DESCRIPTION2": "590-0600",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118120",
+        "ITEMNUMBER": "7",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "PRC-ETP.SL5/4-HSK63E",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "985.57000",
+        "DESCRIPTION1": "1-1/4\" X HSK63E",
+        "DESCRIPTION2": "ETP HG SLENDER TOOLHOLDER",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118120",
+        "ITEMNUMBER": "8",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "PRC-ETP.SL-25-HSK63E",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "1890.87000",
+        "DESCRIPTION1": "25MM X HSK63E X 200MM GL",
+        "DESCRIPTION2": "ETP HG SLENDER TOOLHOLDER",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1118134",
+      "LINECONSIGNEENAME": "NEW ENERGY WORKS OF OREGON",
+      "CUSTOMERCODE": "NE0040",
+      "LINECONSIGNEEUSTAXID": "26-2225888",
+      "LINECONSIGNEEADDRESS1": "2675 NE ORCHARD AVE",
+      "LINECONSIGNEECITY": "MCMINNVILLE",
+      "LINECONSIGNEESTATE": "OR",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "97128"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1118134",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8207.90.90.10",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "R60-32324UM",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "2222.58000",
+        "DESCRIPTION1": "40MMD X 190MMCE X 1.25\"S X 3F",
+        "DESCRIPTION2": "UPCUT CHIPBREAKER FINISHER",
+        "DESCRIPTION3": "SOLID CARBIDE COATED ROUTER"
+      },
+      {
+        "ORDERNUMBER": "1118134",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "8207.90.90.10",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "R60-32304UM",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "881.45000",
+        "DESCRIPTION1": "25MMD X 140MMCE X 25MMS X 3F",
+        "DESCRIPTION2": "UPCUT CHIPBREAKER FINISHER",
+        "DESCRIPTION3": "SOLID CARBIDE COATED ROUTER"
+      },
+      {
+        "ORDERNUMBER": "1118134",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "8207.90.90.10",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "R60-32304UM.LH",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "881.45000",
+        "DESCRIPTION1": "25MMD X 140MMCE X 25MMS X 3F",
+        "DESCRIPTION2": "UPCUT CHIPBREAKER FINISHER",
+        "DESCRIPTION3": "SOLID CARBIDE COATED ROUTER LH"
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1118256",
+      "LINECONSIGNEENAME": "FRAME INDUSTRIES INC",
+      "CUSTOMERCODE": "FR0028",
+      "LINECONSIGNEEUSTAXID": "38-3093499",
+      "LINECONSIGNEEADDRESS1": "740 WEST INDUSTRIAL DR.",
+      "LINECONSIGNEECITY": "CHELSEA",
+      "LINECONSIGNEESTATE": "MI",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "48118"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1118256",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "158-SC-57429.A",
+        "QUANTITY": "40.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "22.40000",
+        "DESCRIPTION1": "SC INSERT KNIVES   DW#57429.A",
+        "DESCRIPTION2": "632SF-2020-GL",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118256",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "158-SC-57429.B",
+        "QUANTITY": "40.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "18.95000",
+        "DESCRIPTION1": "SC INSERT KNIVES   DW#57429.B",
+        "DESCRIPTION2": "632SF-1520-GL",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118256",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "158-SC-57430.A",
+        "QUANTITY": "40.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "24.88000",
+        "DESCRIPTION1": "SC INSERT KNIVES   DW#57430.A",
+        "DESCRIPTION2": "632SF-2025-GL",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118256",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "158-SC-57430.B",
+        "QUANTITY": "40.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "24.88000",
+        "DESCRIPTION1": "SC INSERT KNIVES   DW#57430.B",
+        "DESCRIPTION2": "632SF-1525-GL",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118256",
+        "ITEMNUMBER": "5",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "MISC-GENERAL",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "22.00000",
+        "DESCRIPTION1": "MISC SUPPLY",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118256",
+        "ITEMNUMBER": "6",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SHIPPING",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "INSTRUCTIONS:",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1118593",
+      "LINECONSIGNEENAME": "NEW ENERGY WORKS OF OREGON",
+      "CUSTOMERCODE": "NE0040",
+      "LINECONSIGNEEUSTAXID": "26-2225888",
+      "LINECONSIGNEEADDRESS1": "2675 NE ORCHARD AVE",
+      "LINECONSIGNEECITY": "MCMINNVILLE",
+      "LINECONSIGNEESTATE": "OR",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "97128"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1118593",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "121-20-S7962",
+        "QUANTITY": "3.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "470.96000",
+        "DESCRIPTION1": "500MMD X 30MMB X 48+2T X 5.4MK",
+        "DESCRIPTION2": "STROBE SAW         DW#S7962",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118593",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-ROYCE",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "ROYCE ETCHING, PART # & DESC",
+        "DESCRIPTION2": "STANDARD BOX & LABELLING",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1118786",
+      "LINECONSIGNEENAME": "HIGHLAND AUTOMATION & ROBOTICS",
+      "CUSTOMERCODE": "HI0025",
+      "LINECONSIGNEEUSTAXID": "81-5223407",
+      "LINECONSIGNEEADDRESS1": "620 FAIRFIELD RD.",
+      "LINECONSIGNEECITY": "MONTOURSVILLE",
+      "LINECONSIGNEESTATE": "PA",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "17754"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1118786",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "563SI.100.14-63F3",
+        "QUANTITY": "4.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "576.63000",
+        "DESCRIPTION1": "4\" X .590\"CE X HSK63F X Z=3",
+        "DESCRIPTION2": "INSERT INTEGRATED SURFACER",
+        "DESCRIPTION3": "TOK SPOILBOARD CUTTER"
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1118872",
+      "LINECONSIGNEENAME": "RENEWAL BY ANDERSEN",
+      "CUSTOMERCODE": "05721",
+      "LINECONSIGNEEUSTAXID": "39-1576198",
+      "LINECONSIGNEEADDRESS1": "9900 JAMAICA AVE S",
+      "LINECONSIGNEECITY": "COTTAGE GROVE",
+      "LINECONSIGNEESTATE": "MN",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "55016"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1118872",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SAW-120",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "16.72000",
+        "DESCRIPTION1": "SHARPEN CT SAW 101-120 TEETH",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118872",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SAW-80",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "25.84000",
+        "DESCRIPTION1": "SHARPEN CT SAW 71-80 TEETH",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118872",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SAW-120",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "16.72000",
+        "DESCRIPTION1": "SHARPEN CT SAW 101-120 TEETH",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118872",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SAW-160",
+        "QUANTITY": "8.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "21.66000",
+        "DESCRIPTION1": "SHARPEN CT SAW 141-160 TEETH",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118872",
+        "ITEMNUMBER": "5",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SAW-120",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "16.72000",
+        "DESCRIPTION1": "SHARPEN CT SAW 101-120 TEETH",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118872",
+        "ITEMNUMBER": "6",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SAW-80",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "12.92000",
+        "DESCRIPTION1": "SHARPEN CT SAW 71-80 TEETH",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118872",
+        "ITEMNUMBER": "7",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SAW-60",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "11.40000",
+        "DESCRIPTION1": "SHARPEN CT SAW 51-60 TEETH",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118872",
+        "ITEMNUMBER": "8",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SAW-60",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "11.40000",
+        "DESCRIPTION1": "SHARPEN CT SAW 51-60 TEETH",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118872",
+        "ITEMNUMBER": "9",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SAW-60",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "11.40000",
+        "DESCRIPTION1": "SHARPEN CT SAW 51-60 TEETH",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1118872",
+        "ITEMNUMBER": "10",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "PACKING SLIP",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "USE PACKING SLIP PROVIDED BY",
+        "DESCRIPTION2": "CUSTOMER",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1119120",
+      "LINECONSIGNEENAME": "STUDCO BUILDING SYSTEMS US LLC",
+      "CUSTOMERCODE": "ST0083",
+      "LINECONSIGNEEUSTAXID": "20-2717111",
+      "LINECONSIGNEEADDRESS1": "1700 BOULTER INDUSTRIAL PARKWAY",
+      "LINECONSIGNEECITY": "WEBSTER",
+      "LINECONSIGNEESTATE": "NY",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "14580"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1119120",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8207.50.00.90",
+        "COUNTRYORIGIN": "TWN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "FX122D04",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "28.88000",
+        "DESCRIPTION1": "1/4\" X 2-1/4\"TW X 6\"OAL",
+        "DESCRIPTION2": "HSS V-POINT CENTER DRILL",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1119120",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "8208.20.00.90",
+        "COUNTRYORIGIN": "DE",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "592-0007",
+        "QUANTITY": "20.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "4.13000",
+        "DESCRIPTION1": "15 X 15 X 2.5 R=150 T10MG",
+        "DESCRIPTION2": "SC INSERT KNIVES ETCHED 30 DEG",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1119120",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "PRC-HSK63F-16(ER32)",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "157.15000",
+        "DESCRIPTION1": "HSK63F TOOLHOLDER FOR ER32",
+        "DESCRIPTION2": "D=50MM A=70MM",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1119120",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "PRC-350.0750",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "28.27000",
+        "DESCRIPTION1": "3/4\" ER32 PRECISION COLLET",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1119120",
+        "ITEMNUMBER": "5",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "PRC-350.0500",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "28.27000",
+        "DESCRIPTION1": "1/2\" ER32 PRECISION COLLET",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1119120",
+        "ITEMNUMBER": "6",
+        "TARIFF1NUMBER": "8208.20.00.90",
+        "COUNTRYORIGIN": "DE",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "592-1414 *",
+        "QUANTITY": "10.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "1.75000",
+        "DESCRIPTION1": "14 X 14 X 2 (4E) T04F",
+        "DESCRIPTION2": "SC SPUR KNIVES",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1119383",
+      "LINECONSIGNEENAME": "BURNETTE LTD.,",
+      "CUSTOMERCODE": "BU0007",
+      "LINECONSIGNEEUSTAXID": "56-1602093",
+      "LINECONSIGNEEADDRESS1": "FED ID# 56-1602093",
+      "LINECONSIGNEECITY": "HIGH POINT",
+      "LINECONSIGNEESTATE": "NC",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "27260"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1119383",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "580.SHD-M5014.AOBT20",
+        "QUANTITY": "50.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "2.16000",
+        "DESCRIPTION1": "M5 X 14 X TORX T20 X D=8.5",
+        "DESCRIPTION2": "C/S SCREW FOR SPIRALEX",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1119561",
+      "LINECONSIGNEENAME": "SCARLETT INC",
+      "CUSTOMERCODE": "SC0031",
+      "LINECONSIGNEEUSTAXID": "26-4598777",
+      "LINECONSIGNEEADDRESS1": "4355 AIRWEST DRIVE SE",
+      "LINECONSIGNEECITY": "GRAND RAPIDS",
+      "LINECONSIGNEESTATE": "MI",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "49512"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1119561",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "R60-15012UM",
+        "QUANTITY": "12.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "63.96000",
+        "DESCRIPTION1": "3/8\" X 1-1/8\"CE X 3/8\"SHK X 2F",
+        "DESCRIPTION2": "MORTISE COMPRESSION PLYWOOD",
+        "DESCRIPTION3": "SOLID CARBIDE ROUTER ULTIMAX"
+      },
+      {
+        "ORDERNUMBER": "1119561",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-SCARLETT",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "SCARTLETT ETCH ONLY",
+        "DESCRIPTION2": "STOCK SAW BLADES, SPIRALS,",
+        "DESCRIPTION3": "AND INSERTS, DIAMOND ROUTERS"
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1119718",
+      "LINECONSIGNEENAME": "THERMWOOD CORP.,",
+      "CUSTOMERCODE": "TH0011",
+      "LINECONSIGNEEUSTAXID": "35-1169185",
+      "LINECONSIGNEEADDRESS1": "904 BUFFALOVILLE RD",
+      "LINECONSIGNEECITY": "DALE",
+      "LINECONSIGNEESTATE": "IN",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "47523"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1119718",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "R99-68148",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "59.95000",
+        "DESCRIPTION1": "1/2\"D X 3\"OAL",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": "CUSTOM ROD        DW#68148"
+      },
+      {
+        "ORDERNUMBER": "1119718",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "MISC-TOOLHOLDER",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "314.34000",
+        "DESCRIPTION1": "SUPPLY TOOLHOLDER/CHUCK",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1119755",
+      "LINECONSIGNEENAME": "CUMMINGS VENEER PRODUCTS",
+      "CUSTOMERCODE": "HE0026",
+      "LINECONSIGNEEUSTAXID": "23-2467420",
+      "LINECONSIGNEEADDRESS1": "22755 ROUTE 14 NORTH",
+      "LINECONSIGNEECITY": "TROY",
+      "LINECONSIGNEESTATE": "PA",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "16947"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1119755",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "001-9566",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "518.40000",
+        "DESCRIPTION1": "127MMD X 36CE X 6Z",
+        "DESCRIPTION2": "SERVICE PCD CUTTER DW#D9566",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1119755",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "005",
+        "QUANTITY": "3.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "68.00000",
+        "DESCRIPTION1": "REPLACE PCD TIP",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1119755",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "005",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "48.00000",
+        "DESCRIPTION1": "REPLACE PCD TIP",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1119755",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "001-9567",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "489.60000",
+        "DESCRIPTION1": "122.5D X 32CE X 6Z",
+        "DESCRIPTION2": "SERVICE PCD CUTTER DW#D9567",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1119755",
+        "ITEMNUMBER": "5",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "005",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "68.00000",
+        "DESCRIPTION1": "REPLACE PCD TIP",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1119755",
+        "ITEMNUMBER": "6",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "005",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "78.40000",
+        "DESCRIPTION1": "REPLACE PCD TIP",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1119797",
+      "LINECONSIGNEENAME": "ANDRITZ",
+      "CUSTOMERCODE": "ST0037",
+      "LINECONSIGNEEUSTAXID": "38-2078017",
+      "LINECONSIGNEEADDRESS1": "40 PROGRESS AVE",
+      "LINECONSIGNEECITY": "SPRING FIELD",
+      "LINECONSIGNEESTATE": "MA",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "01104-3291"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1119797",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "001-6398.A",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "432.00000",
+        "DESCRIPTION1": "130MMD X 60MMCE X 4W",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": "SERVICE PCD CUTTER DW#6398.A"
+      },
+      {
+        "ORDERNUMBER": "1119797",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "005",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "220.00000",
+        "DESCRIPTION1": "REPLACE PCD TIP",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1119797",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "001-R-6705",
+        "QUANTITY": "7.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "148.00000",
+        "DESCRIPTION1": "141.21MMD X 6.35CE X 3Z",
+        "DESCRIPTION2": "SERVICE PCD CUTTER DW#D6705",
+        "DESCRIPTION3": "RETIP  **MAINTAIN SPEC*8"
+      },
+      {
+        "ORDERNUMBER": "1119797",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "001-R-6787",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "548.31000",
+        "DESCRIPTION1": "160MMD X 28.6CE X 4W",
+        "DESCRIPTION2": "SERVICE PCD CUTTER DW#D6787",
+        "DESCRIPTION3": "RETIP **MAINTAIN SPEC**"
+      },
+      {
+        "ORDERNUMBER": "1119797",
+        "ITEMNUMBER": "5",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SHIP-ANDRITZ",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "*** SHIP VIA FEDEX GROUND",
+        "DESCRIPTION2": "COLL ON ACCT # 110516029 ***",
+        "DESCRIPTION3": "ANDRITZ'S ACCOUNT"
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1119801",
+      "LINECONSIGNEENAME": "KAYHART COMPANY",
+      "CUSTOMERCODE": "05603",
+      "LINECONSIGNEEUSTAXID": "25-1715903",
+      "LINECONSIGNEEADDRESS1": "127 E. PITTSBURGH STREET",
+      "LINECONSIGNEECITY": "GREENSBURG",
+      "LINECONSIGNEESTATE": "PA",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "15601"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1119801",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "02181201U",
+        "QUANTITY": "11.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "214.49000",
+        "DESCRIPTION1": "18\" X 120T X 4.6K X 1\"B (ATB)",
+        "DESCRIPTION2": "CARBIDE TIP ULTIMA CUT OFF",
+        "DESCRIPTION3": "SAW BLADE"
+      },
+      {
+        "ORDERNUMBER": "1119801",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "02181201U",
+        "QUANTITY": "6.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "238.24000",
+        "DESCRIPTION1": "18\" X 120T X 4.6K X 1\"B (ATB)",
+        "DESCRIPTION2": "CARBIDE TIP ULTIMA CUT OFF",
+        "DESCRIPTION3": "SAW BLADE"
+      },
+      {
+        "ORDERNUMBER": "1119801",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "FREIGHT",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "SHIPPING & HANDLING CHARGE",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1119801",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "DEPOSIT REQUIRED",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "*** MUST OBTAIN APPROVAL WITH",
+        "DESCRIPTION2": "ACTS REC BEFORE SHIPPING ***",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1119851",
+      "LINECONSIGNEENAME": "PELLA CORP",
+      "CUSTOMERCODE": "PE0016",
+      "LINECONSIGNEEUSTAXID": "63-000089",
+      "LINECONSIGNEEADDRESS1": "829 PELLA CORP DRIVE",
+      "LINECONSIGNEECITY": "PELLA",
+      "LINECONSIGNEESTATE": "IA",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "50219"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1119851",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8207.90.90.10",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "R52-32836",
+        "QUANTITY": "3.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "113.08000",
+        "DESCRIPTION1": "5/8\" X 2-1/8\"CE X 5/8\"SHK X 2F",
+        "DESCRIPTION2": "SOLID CARBIDE ROUTER UPCUT",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1119851",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "R52-32833.LH",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "53.18000",
+        "DESCRIPTION1": "1/2\" X 2-1/8\"CE X 1/2\"SHK X 2F",
+        "DESCRIPTION2": "SOLID CARBIDE ROUTER UPCUT",
+        "DESCRIPTION3": "LEFT HAND"
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1120026",
+      "LINECONSIGNEENAME": "EASTSIDE SAW AND SALES",
+      "CUSTOMERCODE": "EA0007",
+      "LINECONSIGNEEUSTAXID": "91-1009700",
+      "LINECONSIGNEEADDRESS1": "12880 BEL-RED RD. STE 1,",
+      "LINECONSIGNEECITY": "BELLEVUE",
+      "LINECONSIGNEESTATE": "WA",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "98005-2695"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1120026",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "002-D173571",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "64.00000",
+        "DESCRIPTION1": "13MMD X 12.5CE X 2Z",
+        "DESCRIPTION2": "SERVICE PCD ROUTER  DW#D173571",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1120026",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "002-D173572",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "112.00000",
+        "DESCRIPTION1": "12MMD X 26CE X 2Z",
+        "DESCRIPTION2": "SERVICE PCD ROUTER  DW#D173572",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1120188",
+      "LINECONSIGNEENAME": "TRIM ART LLC",
+      "CUSTOMERCODE": "AD0027",
+      "LINECONSIGNEEUSTAXID": "87-0465768",
+      "LINECONSIGNEEADDRESS1": "1142 FLINT MEADOW DR",
+      "LINECONSIGNEECITY": "",
+      "LINECONSIGNEESTATE": "UT",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": ""
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1120188",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "533H.090.120.63F2",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "892.78000",
+        "DESCRIPTION1": "90MMD X 127MMCE X 2+2+2W",
+        "DESCRIPTION2": "HSK63F ADAPTER",
+        "DESCRIPTION3": "INSERT SPIRAL CUTTER"
+      },
+      {
+        "ORDERNUMBER": "1120188",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SHIPPING",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "INSTRUCTIONS:",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1120188",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "COMPLETE",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "SHIP COMPLETE",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1120282",
+      "LINECONSIGNEENAME": "CAL DOOR & DRAWER INC.",
+      "CUSTOMERCODE": "CA0027",
+      "LINECONSIGNEEUSTAXID": "82-3540288",
+      "LINECONSIGNEEADDRESS1": "1800 ABBOTT STREET",
+      "LINECONSIGNEECITY": "SALINAS",
+      "LINECONSIGNEESTATE": "CA",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "93901"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1120282",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "001-9654",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "1296.00000",
+        "DESCRIPTION1": "175MMD X 36CE X 8Z",
+        "DESCRIPTION2": "SERVICE PCD CUTTER DW#9654",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1120282",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "005",
+        "QUANTITY": "3.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "60.00000",
+        "DESCRIPTION1": "REPLACE PCD TIP",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1120378",
+      "LINECONSIGNEENAME": "GASTON & WYATT LLC",
+      "CUSTOMERCODE": "GA0012",
+      "LINECONSIGNEEUSTAXID": "",
+      "LINECONSIGNEEADDRESS1": "1317 CARLTON AVENUE SUITE 110",
+      "LINECONSIGNEECITY": "CHARLOTTESVILLE",
+      "LINECONSIGNEESTATE": "VA",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "22902"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1120378",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "573RA-100150R2-20",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "947.07000",
+        "DESCRIPTION1": "100MMD X 150MMCE X 2W X HSK63F",
+        "DESCRIPTION2": "ALUMINUM CORRUGATED HEAD",
+        "DESCRIPTION3": "RIGHT"
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1120443",
+      "LINECONSIGNEENAME": "VAAGEN TIMBERS LLC",
+      "CUSTOMERCODE": "VA0024",
+      "LINECONSIGNEEUSTAXID": "81-3169211",
+      "LINECONSIGNEEADDRESS1": "1245 N HIGHWAY",
+      "LINECONSIGNEECITY": "COLVILLE",
+      "LINECONSIGNEESTATE": "WA",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "99114"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1120443",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "R99-SER-R60-32326",
+        "QUANTITY": "3.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "125.87000",
+        "DESCRIPTION1": "40MMD X 190MMCE X 1.25\"S X 3F",
+        "DESCRIPTION2": "UPCUT CHIPBREAKER FINISHER",
+        "DESCRIPTION3": "SOLID CARBIDER ROUTER SERVICE"
+      },
+      {
+        "ORDERNUMBER": "1120443",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SPRL-3/4F-SC-3",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "20.76000",
+        "DESCRIPTION1": "SHARPEN 3/4 FLT SPRL 3/4\"",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1120443",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SPRL-BIT-1",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "11.40000",
+        "DESCRIPTION1": "SHARPEN 2 FLT SPIRAL 3/8\"",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1120443",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "COMP-SPRL-2",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "29.07000",
+        "DESCRIPTION1": "SHARPEN 2 FLT COMP SPIRAL 1/2\"",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1120550",
+      "LINECONSIGNEENAME": "ACCURATE CUT CARBIDE, INC.",
+      "CUSTOMERCODE": "06054",
+      "LINECONSIGNEEUSTAXID": "87-0468633",
+      "LINECONSIGNEEADDRESS1": "990 NORTH MAIN STREET",
+      "LINECONSIGNEECITY": "NORTH SALT LAKE",
+      "LINECONSIGNEESTATE": "UT",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "84054"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1120550",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8202.39.00.70",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "ON",
+        "PARTNUMBER": "273301032",
+        "QUANTITY": "3.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "137.76000",
+        "DESCRIPTION1": "330 X 100T X 3.4K X 32MMB (MA)",
+        "DESCRIPTION2": "CARBIDE TIP MITRE SAW BLADE",
+        "DESCRIPTION3": "FOR PLASTIC AND NON-FERROUS"
+      },
+      {
+        "ORDERNUMBER": "1120550",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-ROYCE",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "ROYCE ETCHING, PART # & DESC",
+        "DESCRIPTION2": "STANDARD BOX & LABELLING",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1120566",
+      "LINECONSIGNEENAME": "BART SUPPLY INC.   (SHIP)",
+      "CUSTOMERCODE": "04939",
+      "LINECONSIGNEEUSTAXID": "EXEMPT",
+      "LINECONSIGNEEADDRESS1": "1702 TERMINAL ROAD",
+      "LINECONSIGNEECITY": "NILES",
+      "LINECONSIGNEESTATE": "MI",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "49120"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1120566",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "P1710080",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "49.74000",
+        "DESCRIPTION1": "10\" X 80T X 3.2K X 5/8\"B (ATB)",
+        "DESCRIPTION2": "CARBIDE TIP PROLINE CUT OFF",
+        "DESCRIPTION3": "SAW BLADE"
+      },
+      {
+        "ORDERNUMBER": "1120566",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-PROLINE",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "PROLINE ETCH, PART # & DESC",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1120571",
+      "LINECONSIGNEENAME": "RENEWAL BY ANDERSEN",
+      "CUSTOMERCODE": "05721",
+      "LINECONSIGNEEUSTAXID": "39-1576198",
+      "LINECONSIGNEEADDRESS1": "9900 JAMAICA AVE S",
+      "LINECONSIGNEECITY": "COTTAGE GROVE",
+      "LINECONSIGNEESTATE": "MN",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "ATT: E.PETERSON/S.JORGENSON"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1120571",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SAW-60",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "11.40000",
+        "DESCRIPTION1": "SHARPEN CT SAW 51-60 TEETH",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1120571",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SAW-60",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "11.40000",
+        "DESCRIPTION1": "SHARPEN CT SAW 51-60 TEETH",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1120571",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SAW-40",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "8.74000",
+        "DESCRIPTION1": "SHARPEN CT SAW 31-40 TEETH",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1120571",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SAW-60",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "11.40000",
+        "DESCRIPTION1": "SHARPEN CT SAW 51-60 TEETH",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1120571",
+        "ITEMNUMBER": "5",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SAW-120",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "16.72000",
+        "DESCRIPTION1": "SHARPEN CT SAW 101-120 TEETH",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1120709",
+      "LINECONSIGNEENAME": "CHESTER KASON",
+      "CUSTOMERCODE": "RO0060",
+      "LINECONSIGNEEUSTAXID": "61-1914587",
+      "LINECONSIGNEEADDRESS1": "75 TUPELO STREET",
+      "LINECONSIGNEECITY": "BRISTOL",
+      "LINECONSIGNEESTATE": "RI",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "02809"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1120709",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "35061295",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "283.18000",
+        "DESCRIPTION1": "6\" X 12T X 3/8\"K X 5/8\"B",
+        "DESCRIPTION2": "CARBIDE TIP GROOVING SAW",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1120709",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-ROYCE",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "ROYCE ETCHING, PART # & DESC",
+        "DESCRIPTION2": "STANDARD BOX & LABELLING",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1120709",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "SHIP-ROYCE AMERICA",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "23.00000",
+        "DESCRIPTION1": "SHIP UPS GROUND CONSOL",
+        "DESCRIPTION2": "EMAIL TRACKING INFO TO",
+        "DESCRIPTION3": "CUSTOMER.SERV5@ROYCEAYR.COM"
+      },
+      {
+        "ORDERNUMBER": "1120709",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "DEPOSIT WEB SALES",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "PAYMENT MADE IN FULL ON",
+        "DESCRIPTION2": "ROYCE AMERICA ONLINE STORE",
+        "DESCRIPTION3": "OK TO SHIP"
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1120718",
+      "LINECONSIGNEENAME": "NEW ENERGY WORKS OF OREGON",
+      "CUSTOMERCODE": "NE0040",
+      "LINECONSIGNEEUSTAXID": "26-2225888",
+      "LINECONSIGNEEADDRESS1": "1180 COMMERCIAL DR",
+      "LINECONSIGNEECITY": "FARMINGTON",
+      "LINECONSIGNEESTATE": "NY",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "14425"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1120718",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "PRC-ETP.SL-20-HSK63E",
+        "QUANTITY": "4.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "985.57000",
+        "DESCRIPTION1": "20MM X HSK63E X 99MM GL",
+        "DESCRIPTION2": "ETP HG SLENDER TOOLHOLDER",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1120798",
+      "LINECONSIGNEENAME": "WELDED TUBE USA, INC. (US$)",
+      "CUSTOMERCODE": "WE0031",
+      "LINECONSIGNEEUSTAXID": "99-0376582",
+      "LINECONSIGNEEADDRESS1": "2537 HAMBURG TURNPIKE",
+      "LINECONSIGNEECITY": "LACKAWANNA",
+      "LINECONSIGNEESTATE": "NY",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "14218"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1120798",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8202.39.00.00",
+        "COUNTRYORIGIN": "USA",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "CT3138037115 66T",
+        "QUANTITY": "8.00000",
+        "QUANTITYUOM": null,
+        "UNITPRICE": null,
+        "DESCRIPTION1": "380 X 3.7 X 115MMB X 66T",
+        "DESCRIPTION2": "PH'S 2/20.5/200+1/20/200 @45DG",
+        "DESCRIPTION3": "TCT SAW (TUBEMASTER)"
+      },
+      {
+        "ORDERNUMBER": "1120798",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "8202.39.00.00",
+        "COUNTRYORIGIN": "USA",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "CT3138043115 66T",
+        "QUANTITY": "8.00000",
+        "QUANTITYUOM": null,
+        "UNITPRICE": null,
+        "DESCRIPTION1": "380 X 4.3 X 115MMB X 66T",
+        "DESCRIPTION2": "PH'S 2/20.5/200+1/20/200 @45DG",
+        "DESCRIPTION3": "TCT SAW (TUBEMASTER)"
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1120800",
+      "LINECONSIGNEENAME": "THERMWOOD CORP.,",
+      "CUSTOMERCODE": "TH0011",
+      "LINECONSIGNEEUSTAXID": "35-1169185",
+      "LINECONSIGNEEADDRESS1": "904 BUFFALOVILLE RD",
+      "LINECONSIGNEECITY": "DALE",
+      "LINECONSIGNEESTATE": "IN",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "47523"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1120800",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "563S.048.14-753S",
+        "QUANTITY": "5.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "199.33000",
+        "DESCRIPTION1": "1-7/8\" X .551\"CE X 3/4\"S X Z=3",
+        "DESCRIPTION2": "TOK SPOILBOARD CUTTER",
+        "DESCRIPTION3": "UP SHEAR"
+      },
+      {
+        "ORDERNUMBER": "1120800",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "8208.20.00.90",
+        "COUNTRYORIGIN": "DE",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "592-1414 *",
+        "QUANTITY": "50.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "1.75000",
+        "DESCRIPTION1": "14 X 14 X 2 (4E) T04F",
+        "DESCRIPTION2": "SC SPUR KNIVES",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1120800",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-THERMWOOD  CRT",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "ETCH TO \"CUT READY\" DRAWINGS",
+        "DESCRIPTION2": "SEND TO CAD TO GET DRAWINGS",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1120878",
+      "LINECONSIGNEENAME": "TIMBERSTONE c/o TOM BANACH",
+      "CUSTOMERCODE": "TI0012",
+      "LINECONSIGNEEUSTAXID": "58-2664311",
+      "LINECONSIGNEEADDRESS1": "4 GRAND WILLOW WAY",
+      "LINECONSIGNEECITY": "BLUFFTON",
+      "LINECONSIGNEESTATE": "SC",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "29910"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1120878",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8202.39.00.70",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "ON",
+        "PARTNUMBER": "12140361",
+        "QUANTITY": "6.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "172.30000",
+        "DESCRIPTION1": "14\" X 36T X 4.3K X 1\"B (RG)",
+        "DESCRIPTION2": "CARBIDE TIP GLUE JOINT RIP",
+        "DESCRIPTION3": "SAW BLADE"
+      },
+      {
+        "ORDERNUMBER": "1120878",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-ROYCE",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "ROYCE ETCHING, PART # & DESC",
+        "DESCRIPTION2": "STANDARD BOX & LABELLING",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1120878",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "FREIGHT",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "194.00000",
+        "DESCRIPTION1": "SHIPPING & HANDLING CHARGE",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1120878",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "DEPOSIT REQUIRED",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "*** MUST OBTAIN APPROVAL WITH",
+        "DESCRIPTION2": "ACTS REC BEFORE SHIPPING ***",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1120966",
+      "LINECONSIGNEENAME": "CLEVELAND TOOL & CUTTER, INC.",
+      "CUSTOMERCODE": "05322",
+      "LINECONSIGNEEUSTAXID": "34-0875424",
+      "LINECONSIGNEEADDRESS1": "14181 FOLTZ PARKWAY",
+      "LINECONSIGNEECITY": "STRONGSVILLE",
+      "LINECONSIGNEESTATE": "OH",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "44149"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1120966",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8202.39.00.70",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "ON",
+        "PARTNUMBER": "28140601",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "137.71000",
+        "DESCRIPTION1": "350 X 60T X 3.8K X 1\"B (MA)",
+        "DESCRIPTION2": "CARBIDE TIP SAW BLADE FOR",
+        "DESCRIPTION3": "NON-FERROUS"
+      },
+      {
+        "ORDERNUMBER": "1120966",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-CLEVELAND",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "CLEVELAND TOOL ETCH ONLY",
+        "DESCRIPTION2": "PART NUMBER & DESCRIPTION",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1120973",
+      "LINECONSIGNEENAME": "VISION MACHINERY INC",
+      "CUSTOMERCODE": "VI0022",
+      "LINECONSIGNEEUSTAXID": "46-2754658",
+      "LINECONSIGNEEADDRESS1": "1309 N. MARKET BLVD. #140",
+      "LINECONSIGNEECITY": "SACRAMENTO",
+      "LINECONSIGNEESTATE": "CA",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "95834"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1120973",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "001-192128",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "260.00000",
+        "DESCRIPTION1": "80MMD X 65CE X 2Z",
+        "DESCRIPTION2": "SERVICE PCD CUTTER DW#192128",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1120973",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "005",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "56.00000",
+        "DESCRIPTION1": "REPLACE PCD TIP",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1121083",
+      "LINECONSIGNEENAME": "THERMWOOD CORP.,",
+      "CUSTOMERCODE": "TH0011",
+      "LINECONSIGNEEUSTAXID": "35-1169185",
+      "LINECONSIGNEEADDRESS1": "904 BUFFALOVILLE RD",
+      "LINECONSIGNEECITY": "DALE",
+      "LINECONSIGNEESTATE": "IN",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "47523"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1121083",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8207.70.30.40",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "ON",
+        "PARTNUMBER": "R60-12001",
+        "QUANTITY": "10.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "39.57000",
+        "DESCRIPTION1": "1/4\" X 7/8\"CE X 1/4\"SHK X 2F",
+        "DESCRIPTION2": "MORTISE COMPRESSION SPIRAL",
+        "DESCRIPTION3": "SOLID CARBIDE ROUTER"
+      },
+      {
+        "ORDERNUMBER": "1121083",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "8207.90.90.10",
+        "COUNTRYORIGIN": "USA",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "R57-22003",
+        "QUANTITY": "10.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "25.35000",
+        "DESCRIPTION1": "1/16\" X 1/4\"CE X 1/8\"SHK X 2F",
+        "DESCRIPTION2": "SOLID CARBIDE ROUTER DOWNCUT",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1121083",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-THERMWOOD  CRT",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "ETCH TO \"CUT READY\" DRAWINGS",
+        "DESCRIPTION2": "SEND TO CAD TO GET DRAWINGS",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1121089",
+      "LINECONSIGNEENAME": "CLEVELAND TOOL & CUTTER, INC.",
+      "CUSTOMERCODE": "05322",
+      "LINECONSIGNEEUSTAXID": "34-0875424",
+      "LINECONSIGNEEADDRESS1": "14181 FOLTZ PARKWAY",
+      "LINECONSIGNEECITY": "STRONGSVILLE",
+      "LINECONSIGNEESTATE": "OH",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "44149"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1121089",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8202.39.00.70",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "ON",
+        "PARTNUMBER": "12120363 (MEREEN)",
+        "QUANTITY": "6.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "134.70000",
+        "DESCRIPTION1": "12\" X 36T X 4.0K X 3-1/8\"B(RG)",
+        "DESCRIPTION2": "CARBIDE TIP GLUE JOINT RIP",
+        "DESCRIPTION3": "SAWBLADE 1KW 1/4\" X 1/4\""
+      },
+      {
+        "ORDERNUMBER": "1121089",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "8202.39.00.70",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "ON",
+        "PARTNUMBER": "12120363 (MEREEN)",
+        "QUANTITY": "12.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "96.70000",
+        "DESCRIPTION1": "12\" X 36T X 4.0K X 3-1/8\"B(RG)",
+        "DESCRIPTION2": "CARBIDE TIP GLUE JOINT RIP",
+        "DESCRIPTION3": "SAWBLADE 1KW 1/4\" X 1/4\""
+      },
+      {
+        "ORDERNUMBER": "1121089",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-CLEVELAND",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "CLEVELAND TOOL ETCH ONLY",
+        "DESCRIPTION2": "PART NUMBER & DESCRIPTION",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1121120",
+      "LINECONSIGNEENAME": "THERMWOOD CORP.,",
+      "CUSTOMERCODE": "TH0011",
+      "LINECONSIGNEEUSTAXID": "35-1169185",
+      "LINECONSIGNEEADDRESS1": "904 BUFFALOVILLE RD",
+      "LINECONSIGNEECITY": "DALE",
+      "LINECONSIGNEESTATE": "IN",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "47523"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1121120",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "MISC-TOOLHOLDER",
+        "QUANTITY": "3.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "314.34000",
+        "DESCRIPTION1": "SUPPLY TOOLHOLDER/CHUCK",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1121133",
+      "LINECONSIGNEENAME": "JAMESTOWN SCIENTIFIC, LLC",
+      "CUSTOMERCODE": "JA0024",
+      "LINECONSIGNEEUSTAXID": "",
+      "LINECONSIGNEEADDRESS1": "1300 E 2ND ST",
+      "LINECONSIGNEECITY": "JAMESTOWN",
+      "LINECONSIGNEESTATE": "NY",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "14701"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1121133",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "DIA-HIFEED.08RO",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "1016.17000",
+        "DESCRIPTION1": "3/4\" X 2-1/2\"CE X 3/4\"SHK",
+        "DESCRIPTION2": "PCD HOGGING COMP ROUTER Z=3",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1121140",
+      "LINECONSIGNEENAME": "AA CARBIDE INC.,",
+      "CUSTOMERCODE": "AA0001",
+      "LINECONSIGNEEUSTAXID": "87-0273030",
+      "LINECONSIGNEEADDRESS1": "1275 WEST 2100 SOUTH",
+      "LINECONSIGNEECITY": "SALT LAKE CITY",
+      "LINECONSIGNEESTATE": "UT",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "84119"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1121140",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8202.39.00.70",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "ON",
+        "PARTNUMBER": "28221201",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "290.07000",
+        "DESCRIPTION1": "550 X 120T X 4.2K X 1\"B (MA)",
+        "DESCRIPTION2": "CARBIDE TIP SAW BLADE FOR",
+        "DESCRIPTION3": "NON-FERROUS"
+      },
+      {
+        "ORDERNUMBER": "1121140",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-AA CARB ROYCE",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "ROYCE ETCH ONLY",
+        "DESCRIPTION2": "PART NUMBER & DESCRIPTIOIN",
+        "DESCRIPTION3": "ETCHED & LABELLED ROYCE"
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1121149",
+      "LINECONSIGNEENAME": "FRYBURG DOOR",
+      "CUSTOMERCODE": "HE0026",
+      "LINECONSIGNEEUSTAXID": "23-2467420",
+      "LINECONSIGNEEADDRESS1": "6086 STATE ROUTE 241",
+      "LINECONSIGNEECITY": "MILLERSBURG",
+      "LINECONSIGNEESTATE": "OH",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "44654"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1121149",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8207.90.90.10",
+        "COUNTRYORIGIN": "USA",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "R57-32220",
+        "QUANTITY": "4.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "48.03000",
+        "DESCRIPTION1": "5/16\" X 1-1/8\"CE X 1/2\"SH X 2F",
+        "DESCRIPTION2": "SOLID CARBIDE ROUTER DOWNCUT",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1121149",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-HERMANCE SPIRAL",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "HERMANCE ETCH ON",
+        "DESCRIPTION2": "SOLID CARBIDE SPIRALS",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1121149",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "PACKING SLIP",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "USE PACKING SLIP PROVIDED BY",
+        "DESCRIPTION2": "CUSTOMER",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1121151",
+      "LINECONSIGNEENAME": "CENTRAL SAW WORKS",
+      "CUSTOMERCODE": "CE0031",
+      "LINECONSIGNEEUSTAXID": "26-4439638",
+      "LINECONSIGNEEADDRESS1": "410 N FREYA ST.",
+      "LINECONSIGNEECITY": "SPOKANE",
+      "LINECONSIGNEESTATE": "WA",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "99202"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1121151",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8202.39.00.70",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "ON",
+        "PARTNUMBER": "26115240H",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "171.40000",
+        "DESCRIPTION1": "115 X 24T X 3.9K X 7/8\"B",
+        "DESCRIPTION2": "CARBIDE TIP SAW BLADE FOR",
+        "DESCRIPTION3": "PORTABLE MACHINES"
+      },
+      {
+        "ORDERNUMBER": "1121151",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-ROYCE",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "ROYCE ETCHING, PART # & DESC",
+        "DESCRIPTION2": "STANDARD BOX & LABELLING",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1121158",
+      "LINECONSIGNEENAME": "THERMWOOD CORP.,",
+      "CUSTOMERCODE": "TH0011",
+      "LINECONSIGNEEUSTAXID": "35-1169185",
+      "LINECONSIGNEEADDRESS1": "904 BUFFALOVILLE RD",
+      "LINECONSIGNEECITY": "DALE",
+      "LINECONSIGNEESTATE": "IN",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "47523"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1121158",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "R60-11401",
+        "QUANTITY": "10.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "43.00000",
+        "DESCRIPTION1": "3/8\" X 7/8\"CE X 3/8\"SHK X 2F",
+        "DESCRIPTION2": "COMPRESSION SPIRAL",
+        "DESCRIPTION3": "SOLID CARBIDE ROUTER"
+      },
+      {
+        "ORDERNUMBER": "1121158",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "DIA-RTR.40E",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "364.46000",
+        "DESCRIPTION1": "24MM X 3/4\"SHK X Z=2",
+        "DESCRIPTION2": "PCD ROUTER MDF DOOR",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1121158",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "DIA-RTR.50C",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "376.70000",
+        "DESCRIPTION1": "50MM X 3/4\"SHK X Z=2",
+        "DESCRIPTION2": "PCD ROUTER MDF DOOR",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1121158",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-THERMWOOD  CRT",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "ETCH TO \"CUT READY\" DRAWINGS",
+        "DESCRIPTION2": "SEND TO CAD TO GET DRAWINGS",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1121212",
+      "LINECONSIGNEENAME": "FASTENAL",
+      "CUSTOMERCODE": "05251",
+      "LINECONSIGNEEUSTAXID": "5195-7620",
+      "LINECONSIGNEEADDRESS1": "5 E. ELMWOOD AVE",
+      "LINECONSIGNEECITY": "FALCONER",
+      "LINECONSIGNEESTATE": "NY",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "14733"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1121212",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "02160601U",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "128.19000",
+        "DESCRIPTION1": "16\" X 60T X 4.0K X 1\"B (ATB)",
+        "DESCRIPTION2": "CARBIDE TIP ULTIMA CUT OFF",
+        "DESCRIPTION3": "SAW BLADE"
+      },
+      {
+        "ORDERNUMBER": "1121212",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "ETCH-ROYCE",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "ROYCE ETCHING, PART # & DESC",
+        "DESCRIPTION2": "STANDARD BOX & LABELLING",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1121221",
+      "LINECONSIGNEENAME": "CIMARRON DRAWER",
+      "CUSTOMERCODE": "CI0019",
+      "LINECONSIGNEEUSTAXID": "",
+      "LINECONSIGNEEADDRESS1": "4628 INDUSTRY CENTER DRIVE",
+      "LINECONSIGNEECITY": "LAS VEGAS",
+      "LINECONSIGNEESTATE": "NV",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "89115"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1121221",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "DIA-RTR.DT13",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "318.78000",
+        "DESCRIPTION1": "14MMD X 10CEL X 3W X 14MM SH",
+        "DESCRIPTION2": "PCD DOVETAIL ROUTER OMEC",
+        "DESCRIPTION3": "PCD ROUTER"
+      },
+      {
+        "ORDERNUMBER": "1121221",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "FREIGHT",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "17.46000",
+        "DESCRIPTION1": "SHIPPING & HANDLING CHARGE",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1121221",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "DEPOSIT REQUIRED",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "*** MUST OBTAIN APPROVAL WITH",
+        "DESCRIPTION2": "ACTS REC BEFORE SHIPPING ***",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1121237",
+      "LINECONSIGNEENAME": "FINGER LAKES STAIRS",
+      "CUSTOMERCODE": "FI0021",
+      "LINECONSIGNEEUSTAXID": "26-3959679",
+      "LINECONSIGNEEADDRESS1": "23 HOAG DRIVE",
+      "LINECONSIGNEECITY": "PHOENIX",
+      "LINECONSIGNEESTATE": "NY",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "13135"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1121237",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "CAT-PRECISION CNC",
+        "QUANTITY": "3.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "PRECISION CNC TOOLING CATALOG",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1121245",
+      "LINECONSIGNEENAME": "HOUSTON HARDWOODS",
+      "CUSTOMERCODE": "05721",
+      "LINECONSIGNEEUSTAXID": "39-1576198",
+      "LINECONSIGNEEADDRESS1": "4910 WEST 34TH ST",
+      "LINECONSIGNEECITY": "HOUSTON",
+      "LINECONSIGNEESTATE": "TX",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "77092"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1121245",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "538-160.030-GFD-1.8",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "422.03000",
+        "DESCRIPTION1": "160MMD X 1.812\"B X 3+3W X 30MM",
+        "DESCRIPTION2": "INSERT FLOORING CUTTER",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1121245",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "CAN",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "538-160.030-TFD-1.8",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "422.03000",
+        "DESCRIPTION1": "160MMD X 1.812\"B X 3+3W X 30MM",
+        "DESCRIPTION2": "INSERT FLOORING CUTTER",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1121245",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "158-538-160.030-GFD",
+        "QUANTITY": "6.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "21.51000",
+        "DESCRIPTION1": "SC INSERT KNIVES   DW#",
+        "DESCRIPTION2": "632SF-3025-14",
+        "DESCRIPTION3": "REF:30207.FD"
+      },
+      {
+        "ORDERNUMBER": "1121245",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "158-538-160.030-TFD",
+        "QUANTITY": "6.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "21.51000",
+        "DESCRIPTION1": "SC INSERT KNIVES   DW#",
+        "DESCRIPTION2": "632SF-3025-14 *",
+        "DESCRIPTION3": "REF:30208.FD"
+      },
+      {
+        "ORDERNUMBER": "1121245",
+        "ITEMNUMBER": "5",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "PACKING SLIP",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "USE PACKING SLIP PROVIDED BY",
+        "DESCRIPTION2": "CUSTOMER",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1121256",
+      "LINECONSIGNEENAME": "WALA INTERNATIONAL COMMERCE",
+      "CUSTOMERCODE": "HE0020",
+      "LINECONSIGNEEUSTAXID": "",
+      "LINECONSIGNEEADDRESS1": "1201 PENDALE ROAD",
+      "LINECONSIGNEECITY": "ELPASO",
+      "LINECONSIGNEESTATE": "TX",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": ""
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1121256",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "8208.20.00.00",
+        "COUNTRYORIGIN": "DE",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "592-143143",
+        "QUANTITY": "180.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "7.08000",
+        "DESCRIPTION1": "14.3 X 14.3 X 2.5 (4E)",
+        "DESCRIPTION2": "SC SPUR KNIVES",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1121256",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "FREIGHT",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "80.00000",
+        "DESCRIPTION1": "SHIPPING & HANDLING CHARGE",
+        "DESCRIPTION2": "",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1121256",
+        "ITEMNUMBER": "3",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "WIRE-FEE",
+        "QUANTITY": "1.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "$15.00 WIRE TRANSFER FEE",
+        "DESCRIPTION2": "APPLIES TO THIS ORDER",
+        "DESCRIPTION3": ""
+      },
+      {
+        "ORDERNUMBER": "1121256",
+        "ITEMNUMBER": "4",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "DEPOSIT REQUIRED",
+        "QUANTITY": ".00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": ".00000",
+        "DESCRIPTION1": "*** MUST OBTAIN APPROVAL WITH",
+        "DESCRIPTION2": "ACTS REC BEFORE SHIPPING ***",
+        "DESCRIPTION3": ""
+      }
+    ]
+  },
+  {
+    "header": {
+      "ORDERNUMBER": "1121315",
+      "LINECONSIGNEENAME": "MID-VALLEY GLASS & MILLWORK",
+      "CUSTOMERCODE": "MI0050",
+      "LINECONSIGNEEUSTAXID": "20-0064684",
+      "LINECONSIGNEEADDRESS1": "2630 W  7TH PL",
+      "LINECONSIGNEECITY": "EUGENE",
+      "LINECONSIGNEESTATE": "OR",
+      "LINECONSIGNEECOUNTRY": "USA",
+      "LINECONSIGNEEPOSTALCODE": "97402"
+    },
+    "items": [
+      {
+        "ORDERNUMBER": "1121315",
+        "ITEMNUMBER": "1",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "LR89003-PCD",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "252.89000",
+        "DESCRIPTION1": "1/2\"D X 10MMCE X 2W",
+        "DESCRIPTION2": "1/4-20 THREAD",
+        "DESCRIPTION3": "PCD HINGE CUTTER"
+      },
+      {
+        "ORDERNUMBER": "1121315",
+        "ITEMNUMBER": "2",
+        "TARIFF1NUMBER": "",
+        "COUNTRYORIGIN": "",
+        "PROVORIGIN": "",
+        "PARTNUMBER": "LR89010-PCD",
+        "QUANTITY": "2.00000",
+        "QUANTITYUOM": "EA",
+        "UNITPRICE": "252.89000",
+        "DESCRIPTION1": "1 1/4\"D X 10MMCE X 2W",
+        "DESCRIPTION2": "1/4-28 THREAD",
+        "DESCRIPTION3": "PCD HINGE CUTTER"
+      }
+    ]
+  }
+]

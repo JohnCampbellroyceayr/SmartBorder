@@ -45,7 +45,16 @@ function findItems(orderNumber, itemsArr) {
     for (let i = 0; i < itemsArr.length; i++) {
         const item = itemsArr[i];
         if(item.ORDERNUMBER == orderNumber) {
-            orderItems.push(item);
+            let itemNumberAlreadySelected = false;
+            for (let j = 0; j < orderItems.length; j++) {
+                if(orderItems[j].ITEMNUMBER == item.ITEMNUMBER) {
+                    itemNumberAlreadySelected = true;
+                    break;
+                }
+            }
+            if(itemNumberAlreadySelected == false) {
+                orderItems.push(item);
+            }
         }
     }
     return orderItems;
