@@ -1,11 +1,11 @@
 import orderSummary from "./src/odbc/orderSummary.js";
 import updateCustomerFedId from "./src/webservices/updateCustomerFedId.js";
 import updateGlobalPartTariff from "./src/webservices/updateTariffCode.js";
+import updatePlantPartCountry from "./src/webservices/updateCountryOrg.js";
 import findCustomer from "./src/odbc/getCustomer.js";
 import getTariff from "./src/odbc/getTariff.js";
 
 import express from "express";
-import fs from 'fs';
 
 const app = express();
 app.use(express.json());
@@ -15,14 +15,15 @@ app.get('/api/order/:id', async (req, res) => {
     const orderNumber = req.params.id;
     const order = await orderSummary([orderNumber]);
     res.json(order);
-
+    
 });
 
 app.post('/api/getOrderArr', async (req, res) => {
-
+    
     const orderArr = req.body.orderArr;
+    console.time();
     const orders = await orderSummary(orderArr);
-    fs.writeFileSync("./output.txt", JSON.stringify(orders, null, 2));
+    console.timeEnd();
     res.json(orders);
 
 });
@@ -91,9 +92,30 @@ app.post('/api/updatePartTariffCode', async (req, res) => {
     try {
         const partNumber = req.body.part;
         const tariffCode = req.body.tariff;
-        const countryOrigin = req.body.countryOfOrigin;
-        const provOrigin = req.body.provOfOrigin;
-        const result = await updateGlobalPartTariff(partNumber, tariffCode, countryOrigin, provOrigin);
+        const result = await updateGlobalPartTariff(partNumber, tariffCode);
+        if(result.CMS_ServiceResponse.RequestStatus == 'OK') {
+            res.json({
+                error: false
+            });
+            return ;
+        }
+    }
+    catch(error) {
+        console.log(error);
+    }
+
+    res.json({
+        error: true
+    });
+
+});
+
+app.post('/api/updatePartCountryOfOrigin', async (req, res) => {
+    
+    try {
+        const partNumber = req.body.part;
+        const countryOfOrigin = req.body.countryOfOrigin;
+        const result = await updatePlantPartCountry(partNumber, countryOfOrigin);
         if(result.CMS_ServiceResponse.RequestStatus == 'OK') {
             res.json({
                 error: false

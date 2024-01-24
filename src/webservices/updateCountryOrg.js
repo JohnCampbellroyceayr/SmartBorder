@@ -1,9 +1,8 @@
 import { partClient } from "../databases/webservices.js";
 
-export default async function updatePlantPartTariff(partNumber, newTariffCode) {
+export default async function updatePlantPartCountry(partNumber, countryOrigin) {
 
     return new Promise(async (resolve, reject) => {
-        
         const argsHarmiCodeUpdate = {
             "Service_UpdateGlobalPart": {
                 "RequestID": "UpdatePart2",
@@ -12,10 +11,10 @@ export default async function updatePlantPartTariff(partNumber, newTariffCode) {
                 "ServLang": "ENU",
                 "CustomizedLibrary": "ROYCEAYR",
                 "InternalPartNumber": partNumber,
-                "HarmonizationCode": newTariffCode,
+                "ManufacturingCountryOfOrigin": countryOrigin,
+                "ManufacturerProvinceOfOrigin": "",
             }
         };
-
         partClient.UpdateGlobalPart(argsHarmiCodeUpdate, function(err, result) {
             if (err) {
                 console.log("Error");
@@ -25,7 +24,7 @@ export default async function updatePlantPartTariff(partNumber, newTariffCode) {
             } else {
                 resolve(result);
             }
-        });
+        });     
     });
     
 }
