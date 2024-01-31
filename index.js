@@ -2,6 +2,7 @@ import orderSummary from "./src/odbc/orderSummary.js";
 import updateCustomerFedId from "./src/webservices/updateCustomerFedId.js";
 import updateGlobalPartTariff from "./src/webservices/updateTariffCode.js";
 import updatePlantPartCountry from "./src/webservices/updateCountryOrg.js";
+import getOrderItemLine from "./src/odbc/getOrderItemLine.js";
 import findCustomer from "./src/odbc/getCustomer.js";
 import getTariff from "./src/odbc/getTariff.js";
 
@@ -130,6 +131,20 @@ app.post('/api/updatePartCountryOfOrigin', async (req, res) => {
     res.json({
         error: true
     });
+
+});
+
+app.post('/api/getItemLine', async (req, res) => {
+    
+    try {
+        const order = req.body.orderNumber;
+        const item = req.body.itemNumber;
+        const result = await getOrderItemLine(order, item);
+        res.json(result);
+    }
+    catch(error) {
+        res.json({error: true})
+    }
 
 });
 

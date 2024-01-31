@@ -6,7 +6,7 @@ export default async function headerSummary(orderNumbersArray) {
     const headerSql = `
 
         SELECT 
-            TRIM(FEORD#) AS OrderNumber,
+            TRIM(FEBOL#) AS OrderNumber,
             TRIM(FESNME) AS LineConsigneeName,
             TRIM(BOLH.FEBCS#) AS CustomerCode,
             TRIM(CUST.BVPSTL) AS LineConsigneeUSTaxID,
@@ -21,7 +21,7 @@ export default async function headerSummary(orderNumbersArray) {
         LEFT JOIN CUST
         ON TRIM(BOLH.FEBCS#) = TRIM(CUST.BVCUST)
 
-        WHERE TRIM(FEORD#) IN (${orderNumbersSqlStr})
+        WHERE TRIM(FEBOL#) IN (${orderNumbersSqlStr})
 
     `;
 
