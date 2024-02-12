@@ -13,10 +13,24 @@ app.use(express.json());
 
 app.get('/api/order/:id', async (req, res) => {
     
-    const orderNumber = req.params.id;
-    const order = await orderSummary([orderNumber]);
-    res.json(order);
-    
+    try {
+        const orderNumber = req.params.id;
+        const order = await orderSummary([orderNumber]);
+        if(order.length > 0) {
+            res.json({
+                ...order[0],
+                FOUND: true
+            });
+        }
+        else {
+            res.json({
+                FOUND: false
+            })
+        }
+    }
+    catch(error) {
+        res.json(null);
+    }    
 });
 
 app.post('/api/getOrderArr', async (req, res) => {

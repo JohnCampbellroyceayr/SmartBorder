@@ -1,13 +1,13 @@
 import headerSummary from "./getHeader.js";
 import itemsSummary from "./getItems.js";
 
-export default async function orderSummary(orderNumbersArray) {
+export default async function orderSummary(bolNumbersArray) {
     try {
-        orderNumbersArray = cleanArray(orderNumbersArray);
-        const headers = await headerSummary(orderNumbersArray);
-        const items = await itemsSummary(orderNumbersArray);
+        bolNumbersArray = cleanArray(bolNumbersArray);
+        const headers = await headerSummary(bolNumbersArray);
+        const items = await itemsSummary(bolNumbersArray);
         const headerItems = joinHeaderItems(headers, items);
-        return sortHeaderItemsToOrginalOrder(headerItems, orderNumbersArray);
+        return sortHeaderItemsToOrginalOrder(headerItems, bolNumbersArray);
     }
     catch(error) {
         return {
@@ -19,9 +19,9 @@ export default async function orderSummary(orderNumbersArray) {
 function cleanArray(inputArray) {
     const cleanArr = [];
     for (let i = 0; i < inputArray.length; i++) {
-        const orderNumber = inputArray[i];
-        if(/^\d+$/.test(orderNumber) && orderNumber != '') {
-            cleanArr.push(orderNumber);
+        const bolNumber = inputArray[i];
+        if(/^\d+$/.test(bolNumber) && bolNumber != '') {
+            cleanArr.push(bolNumber);
         }
     }
     return cleanArr;
@@ -31,7 +31,7 @@ function joinHeaderItems(headerArr, itemsArr) {
     const headerItemArr = [];
     for (let i = 0; i < headerArr.length; i++) {
         const header = headerArr[i];
-        const items = findItems(header.ORDERNUMBER, itemsArr);
+        const items = findItems(header.BOLNUMBER, itemsArr);
         headerItemArr.push({
             header: header,
             items: items
@@ -40,11 +40,11 @@ function joinHeaderItems(headerArr, itemsArr) {
     return headerItemArr;
 }
 
-function findItems(orderNumber, itemsArr) {
+function findItems(bolNumber, itemsArr) {
     const orderItems = [];
     for (let i = 0; i < itemsArr.length; i++) {
         const item = itemsArr[i];
-        if(item.ORDERNUMBER == orderNumber) {
+        if(item.BOLNUMBER == bolNumber) {
             let itemNumberAlreadySelected = false;
             for (let j = 0; j < orderItems.length; j++) {
                 if(orderItems[j].ITEMNUMBER == item.ITEMNUMBER) {
@@ -66,7 +66,7 @@ function sortHeaderItemsToOrginalOrder(headerItemsArr, orderArr) {
         const order = orderArr[i];
         for (let j = 0; j < headerItemsArr.length; j++) {
             const headerItemObj = headerItemsArr[j];
-            if(headerItemObj.header.ORDERNUMBER == order) {
+            if(headerItemObj.header.BOLNUMBER == order) {
                 headerItemsOrgOrder.push(headerItemObj);
                 break;
             }

@@ -21,7 +21,7 @@ function getItem(order, item) {
 
     const itemsSql = `
         SELECT 
-            TRIM(FGBOL#) AS OrderNumber,
+            TRIM(FGBOL#) AS BOLNumber,
             TRIM(BOLD.FGITEM) AS ItemNumber,
             COALESCE(TRIM(STKMM.AVHARM), TRIM(STKMP.AWHARM)) AS Tariff1Number,
             COALESCE(TRIM(STKMM.AVMFCOR), TRIM(STKMP.AWMFCOR)) AS CountryOrigin,

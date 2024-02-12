@@ -13,8 +13,7 @@ export default async function updateCustomerFedId(customerNumber, newFedId) {
                 "ServPlntCod": "DFT",
                 "CustomizedLibrary": "ROYCEAYR",
                 "CustomerNbr": customerNumber,
-                "PSTExemptLicenceNbr": newFedId,
-                "EDITradingPartner": ''
+                "GSTLicence": newFedId
             }
          };
 

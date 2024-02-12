@@ -9,7 +9,7 @@ export default async function findCustomer(customerNumber) {
             TRIM(BVADR1) AS Description1,
             TRIM(BVADR2) AS Description2,
             TRIM(BVADR3) AS Description3,
-            TRIM(BVPSTL) AS FedId
+            TRIM(BVGSTL) AS FedId
         FROM CUST
         WHERE TRIM(BVCUST) = ?
 

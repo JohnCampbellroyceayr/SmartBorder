@@ -6,10 +6,12 @@ export default async function headerSummary(orderNumbersArray) {
     const headerSql = `
 
         SELECT 
-            TRIM(FEBOL#) AS OrderNumber,
+            TRIM(FEBOL#) AS BOLNumber,
+            TRIM(FEORD#) AS OrderNumber,
             TRIM(FESNME) AS LineConsigneeName,
             TRIM(BOLH.FEBCS#) AS CustomerCode,
-            TRIM(CUST.BVPSTL) AS LineConsigneeUSTaxID,
+            TRIM(CUST.BVNAME) AS CustomerName,
+            TRIM(CUST.BVGSTL) AS LineConsigneeUSTaxID,
             TRIM(FESAD1) AS LineConsigneeAddress1,
             TRIM(FESCTY) AS LineConsigneeCity,
             TRIM(FESPOV) AS LineConsigneeState,
