@@ -3,8 +3,10 @@ import itemsSummary from "./getItems.js";
 
 export default async function orderSummary(bolNumbersArray) {
     try {
+        console.time();
         bolNumbersArray = cleanArray(bolNumbersArray);
         const headers = await headerSummary(bolNumbersArray);
+        console.timeEnd();
         const items = await itemsSummary(bolNumbersArray);
         const headerItems = joinHeaderItems(headers, items);
         return sortHeaderItemsToOrginalOrder(headerItems, bolNumbersArray);
